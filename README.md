@@ -8,7 +8,7 @@
 ![alt text](https://github.com/Salamandr-DEV/deep_learning_with_python_lab_6/blob/master/Screenshots/2020-03-17_11-43-51.png?raw=true)
 ---------
 Далее этот код был улучшен наивным кодом который получает наклон маятника и начинает движение платформы в ту же сторону. 
-![alt text](https://github.com/Salamandr-DEV/deep_learning_with_python_lab_5/blob/master/Screenshots/2020-03-03_15-44-54.png?raw=true)
+![alt text](https://github.com/Salamandr-DEV/deep_learning_with_python_lab_6/blob/master/Screenshots/2020-03-17_11-49-21.png?raw=true)
 ---------
 Наилучшим улучшением даннного кода является алгоритм имитации отжига который максимально улучшил наш код и привел маятника к равновесию.
 ![alt text](https://github.com/Salamandr-DEV/deep_learning_with_python_lab_5/blob/master/Screenshots/2020-03-03_15-45-12.png?raw=true)
