@@ -11,7 +11,7 @@
 ![alt text](https://github.com/Salamandr-DEV/deep_learning_with_python_lab_6/blob/master/Screenshots/2020-03-17_11-49-21.png?raw=true)
 ---------
 Наилучшим улучшением даннного кода является алгоритм имитации отжига который максимально улучшил наш код и привел маятника к равновесию.
-![alt text](https://github.com/Salamandr-DEV/deep_learning_with_python_lab_5/blob/master/Screenshots/2020-03-03_15-45-12.png?raw=true)
+![alt text](https://github.com/Salamandr-DEV/deep_learning_with_python_lab_6/blob/master/Screenshots/2020-03-10_16-16-07.png?raw=true)
 ---------
 В итоге проведенной лабораторной работы была создана программа которая решает задачу о стабилизации перевернутого маятника. Для построения графика решения была использована библиотека matplotlib, а для визуализации решения - render open ai gym.
 
